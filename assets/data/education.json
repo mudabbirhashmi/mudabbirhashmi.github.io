@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bachelors",
+    "degree": "Bachelor of Science",
+    "field": "Journalism & Mass Communication",
+    "institution": "Delhi University",
+    "graduationYear": 2012,
+    "description": "Completed comprehensive coursework in print journalism, broadcast media, and digital journalism with focus on investigative reporting techniques."
+  },
+  {
+    "id": "masters",
+    "degree": "Master of Arts",
+    "field": "Broadcast Journalism",
+    "institution": "Indian Institute of Mass Communication",
+    "graduationYear": 2014,
+    "description": "Advanced studies in multimedia journalism, documentary filmmaking, and news production. Thesis focused on digital transformation in Indian media."
+  },
+  {
+    "id": "certification",
+    "degree": "Certificate Program",
+    "field": "Data Journalism",
+    "institution": "Knight Center for Journalism in the Americas",
+    "graduationYear": 2019,
+    "description": "Specialized training in data analysis, data visualization, and computational journalism techniques for investigative reporting."
+  }
+]

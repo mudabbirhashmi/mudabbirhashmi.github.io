@@ -1,0 +1,11 @@
+{
+    "about": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/about.json",
+    "education": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/education.json",
+    "workExperience": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/work-experience.json",
+    "trainings": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/trainings.json",
+    "fellowships": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/fellowships.json",
+    "publications": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/publications.json",
+    "works": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/works.json",
+    "contact": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/contact.json",
+    "resume": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/resume.json"
+}

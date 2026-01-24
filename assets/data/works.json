@@ -1,0 +1,68 @@
+[
+  {
+    "id": "doc-1",
+    "title": "Voices of Change: Rural India Rising",
+    "type": "documentary",
+    "institution": "The Indian Express",
+    "date": "2023",
+    "thumbnail": "https://via.placeholder.com/800x400?text=Documentary+Thumbnail",
+    "description": "Award-winning documentary exploring grassroots movements and community organizing in rural India.",
+    "fullDescription": "A compelling 45-minute documentary that follows various grassroots movements across rural India, showcasing how communities are organizing for change. The film features in-depth interviews with activists, community leaders, and ordinary citizens whose lives have been transformed by collective action. Through intimate storytelling and striking cinematography, 'Voices of Change' demonstrates the power of community organizing and the resilience of rural communities in the face of challenges.",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "id": "news-1",
+    "title": "Political Corruption Network Exposed",
+    "type": "news-report",
+    "institution": "BBC",
+    "date": "2023",
+    "thumbnail": "https://via.placeholder.com/800x400?text=News+Report+Thumbnail",
+    "description": "Investigation into a complex network of political corruption spanning multiple states.",
+    "fullDescription": "This groundbreaking investigative report reveals a sophisticated corruption network involving multiple high-ranking officials across several states. The investigation took 18 months of rigorous research, involving analysis of thousands of financial documents, hundreds of interviews, and extensive cross-verification of facts. The report has led to multiple inquiries and has already prompted action by law enforcement agencies.",
+    "link": "https://bbc.com/news/investigation"
+  },
+  {
+    "id": "multimedia-1",
+    "title": "Journey of a Climate Refugee",
+    "type": "multimedia-report",
+    "institution": "The Indian Express",
+    "date": "2023",
+    "thumbnail": "https://via.placeholder.com/300x200?text=Multimedia+Report+1",
+    "description": "Interactive multimedia story of a family displaced by climate change using photos, videos, and personal narratives.",
+    "fullDescription": "An immersive multimedia experience combining photography, video interviews, audio commentary, and interactive maps to tell the story of climate-displaced families.",
+    "link": "https://theindianexpress.com/multimedia/climate-refugee"
+  },
+  {
+    "id": "photo-1",
+    "title": "Faces of Urban India",
+    "type": "photography",
+    "institution": "National Geographic",
+    "date": "2022",
+    "thumbnail": "https://via.placeholder.com/300x200?text=Photography+1",
+    "description": "Photo essay documenting daily life and diversity of India's urban centers.",
+    "fullDescription": "A striking collection of photographs capturing the vibrant diversity, challenges, and human stories of India's urban landscape.",
+    "link": "https://natgeo.com/photography/urban-india"
+  },
+  {
+    "id": "mojo-1",
+    "title": "Inside the Election Campaign",
+    "type": "mojo",
+    "institution": "The Indian Express",
+    "date": "2022",
+    "thumbnail": "https://via.placeholder.com/300x200?text=MOJO+1",
+    "description": "Behind-the-scenes mobile journalism coverage of election campaign logistics and on-ground realities.",
+    "fullDescription": "Real-time mobile journalism reporting from the ground during election campaigns, capturing unfiltered stories and ground realities.",
+    "videoUrl": "https://www.youtube.com/embed/9bZkp7q19f0"
+  },
+  {
+    "id": "factcheck-1",
+    "title": "Election Claims Fact-Check Database",
+    "type": "fact-checking",
+    "institution": "BBC",
+    "date": "2022",
+    "thumbnail": "https://via.placeholder.com/300x200?text=Fact+Check+1",
+    "description": "Comprehensive fact-checking of claims made by political parties during election season.",
+    "fullDescription": "Interactive database of fact-checked claims made by political parties, candidates, and public figures during elections, with detailed analysis and sources.",
+    "link": "https://bbc.com/factcheck"
+  }
+]
