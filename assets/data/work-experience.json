@@ -1,0 +1,26 @@
+[
+  {
+    "id": "senior-reporter",
+    "position": "Senior Investigative Reporter",
+    "organization": "The Indian Express",
+    "startDate": "2018",
+    "endDate": "Present",
+    "description": "Leading investigative journalism team, conducting in-depth research and producing impactful reports on social, political, and economic issues. Mentoring junior journalists and developing multimedia storytelling strategies."
+  },
+  {
+    "id": "correspondent",
+    "position": "Correspondent",
+    "organization": "BBC India",
+    "startDate": "2014",
+    "endDate": "2018",
+    "description": "Covered major news events across India, produced documentary pieces, and contributed to BBC's digital platforms. Developed strong contacts in political and social sectors."
+  },
+  {
+    "id": "reporter",
+    "position": "News Reporter",
+    "organization": "NDTV",
+    "startDate": "2012",
+    "endDate": "2014",
+    "description": "Reported on various beats including politics, society, and business. Developed skills in fast-paced newsroom environment and breaking news coverage."
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "email": "ahmed.hashmi@example.com",
+  "phone": "+91-98765-43210",
+  "address": "New Delhi, India",
+  "socialLinks": {
+    "twitter": "https://twitter.com/ahmedhashmi",
+    "linkedin": "https://linkedin.com/in/ahmedhashmi",
+    "facebook": "https://facebook.com/ahmedhashmi",
+    "instagram": "https://instagram.com/ahmedhashmi"
+  }
+}
