@@ -1,0 +1,38 @@
+[
+    {
+        "id": "mobile-journalism-ws-2023",
+        "title": "Advanced Mobile Journalism (MoJo)",
+        "type": "moJo",
+        "date": "2023",
+        "description": "A hands-on workshop on using smartphones for high-quality news reporting and storytelling.",
+        "fullDescription": "This intensive workshop covered the A-Z of Mobile Journalism (MoJo). Participants learned about the best apps for shooting and editing video, framing techniques, audio recording on mobile, and how to tell compelling visual stories using only a smartphone. The session included practical exercises where participants produced a short news package by the end of the day.",
+        "thumbnail": "https://via.placeholder.com/300x200?text=MoJo+Workshop",
+        "role": "Lead Trainer",
+        "venue": "Press Institute of Bangladesh",
+        "participants": "30 Journalists"
+    },
+    {
+        "id": "investigative-strategy-2023",
+        "title": "Strategic Planning for Investigative Stories",
+        "type": "strategy & planning",
+        "date": "2023",
+        "description": "Workshop on planning and executing long-form investigative journalism projects.",
+        "fullDescription": "Focused on the strategic aspect of investigative reporting, this workshop guided participants through the process of hypothesis formation, source mapping, and creating a project timeline. We discussed risk assessment, digital security, and how to structure a complex narrative. Changing the mindset from daily news coverage to deep-dive investigations was a key theme.",
+        "thumbnail": "https://via.placeholder.com/300x200?text=Strategy+Workshop",
+        "role": "Key Speaker",
+        "venue": "Dhaka Reporters Unity",
+        "participants": "45 Reporters"
+    },
+    {
+        "id": "digital-verification-2022",
+        "title": "Digital Verification & Fact-Checking",
+        "type": "creative",
+        "date": "2022",
+        "description": "Techniques for verifying digital content and fighting misinformation.",
+        "fullDescription": "In an era of fake news, this workshop provided essential skills for verifying user-generated content. Tools and techniques for reverse image search, video verification, and geolocation were demonstrated. The workshop also covered the ethical considerations of using social media content in news reporting.",
+        "thumbnail": "https://via.placeholder.com/300x200?text=Verification+Workshop",
+        "role": "Trainer",
+        "venue": "University of Dhaka",
+        "participants": "50 Students"
+    }
+]
